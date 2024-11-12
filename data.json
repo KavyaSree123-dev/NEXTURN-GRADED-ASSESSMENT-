@@ -1,0 +1,36 @@
+[
+    {
+    "id":1,
+    "name":"Laptop","category":"Electronics",
+    "price":150000,
+    "available":true
+    },
+    {
+    "id":2,
+    "name":"Shirt",
+    "category":"Fashion",
+    "price":1000,
+    "available":true
+    },
+    {
+    "id":3,
+    "name":"Phone",
+    "category":"Electronics",
+    "price":15000,
+    "available":false
+    },
+    {
+    "id":4,
+    "name":"Double cot",
+    "category":"Furniture",
+    "price":120000,
+    "available":false
+    },
+    {
+    "id":5,
+    "name":"Jeans",
+    "category":"Fashion",
+    "price":1700,
+    "available":true
+    }
+]
